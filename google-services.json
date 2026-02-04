@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "476477023364",
+    "project_id": "ticketbookingapp-7b574",
+    "storage_bucket": "ticketbookingapp-7b574.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476477023364:android:8d90ea7b3b94b1483a0ed1",
+        "android_client_info": {
+          "package_name": "com.ticketbooking.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476477023364-j5u4d93fie0p9v6ad8lmfe3f3qkaoj2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ticketbooking.app",
+            "certificate_hash": "8b1a1243fac4256c6d89c431bbd432094c398755"
+          }
+        },
+        {
+          "client_id": "476477023364-0nac264mc6t9c38nuge0n7vi0d1kd6r7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTLLrz5KFHQ8ZuQf8mNQhbU5sLfcuX9Go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476477023364-0nac264mc6t9c38nuge0n7vi0d1kd6r7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
